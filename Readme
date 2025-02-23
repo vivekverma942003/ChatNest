@@ -1,0 +1,6 @@
+  // Here type is added so that we can import and export the modules easily without the required syntax in
+  the package.json;
+  "type" :"modules" generally it is "commonjs"
+
+Here in this application we are using the daisy ui for the making ui more attractive and looks more cleaner
+
