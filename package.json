@@ -4,7 +4,7 @@
   "description": "// Here type is added so that we can import and export the modules easily without the required syntax in\r   the package.json;\r   \"type\" :\"modules\" generally it is \"commonjs\"",
   "main": "index.js",
   "scripts": {
-    "build":"npm install --prefix Backend && npm install --prefix frontend && npm run build --prefix Frontend",
+    "build":"npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
     "start":"npm run start --prefix Backend"
   },
   "keywords": [],
